@@ -1,0 +1,7 @@
+User-agent: SentiBot
+Disallow: /gpu-specs/
+Disallow: /cpu-specs/
+Disallow: /vgabios/
+
+User-agent: *
+Disallow: /wizzard/
